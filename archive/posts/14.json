@@ -1,0 +1,14 @@
+{
+  "id": "14",
+  "titletext": "Reading List, I",
+  "subtext": "Current reading plans...",
+  "timestamp": {
+    "month": "August",
+    "day": "22",
+    "year": "2016"
+  },
+  "card_size": "medium-small",
+  "card_type": "article",
+  "image": "unsplash/24.jpg",
+  "comments": "true"
+}

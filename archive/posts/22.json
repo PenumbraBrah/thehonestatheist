@@ -1,0 +1,15 @@
+{
+  "id": "22",
+  "titletext": "Teapots and Crackpots",
+  "subtext": "The Burden of Proof in theism: a crash course.",
+  "timestamp": {
+    "month": "April",
+    "day": "5",
+    "year": "2017"
+  },
+  "card_size": "medium-large",
+  "card_type": "article",
+  "image": "teapot.jpg",
+  "comments": "true",
+  "related": [20, 3]
+}

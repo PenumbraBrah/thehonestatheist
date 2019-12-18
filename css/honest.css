@@ -1,0 +1,292 @@
+a.menu-items {
+	display: block;
+	padding: 0 16px;
+}
+
+.centered-button {
+	margin: auto;
+}
+
+.copy_q {
+  font-size: 18px;
+  padding-left: 10px;
+}
+
+#definitions-page,
+#error-page,
+#faq-page,
+#post-content,
+#quotes-page,
+#science-page {
+}
+
+#definitions-page p,
+#definitions-page ul,
+#definitions-page ol,
+#definitions-page h1,
+#definitions-page h2,
+#definitions-page h3,
+#definitions-page h4,
+#definitions-page h5,
+#definitions-page h6,
+#error-page p,
+#error-page ul,
+#error-page ol,
+#error-page h1,
+#error-page h2,
+#error-page h3,
+#error-page h4,
+#error-page h5,
+#error-page h6,
+#faq-page p,
+#faq-page ul,
+#faq-page ol,
+#faq-page h1,
+#faq-page h2,
+#faq-page h3,
+#faq-page h4,
+#faq-page h5,
+#faq-page h6,
+#post-content p,
+#post-content ul,
+#post-content ol,
+#post-content h1,
+#post-content h2,
+#post-content h3,
+#post-content h4,
+#post-content h5,
+#post-content h6,
+#quotes-page p,
+#quotes-page ul,
+#quotes-page ol,
+#quotes-page h1,
+#quotes-page h2,
+#quotes-page h3,
+#quotes-page h4,
+#quotes-page h5,
+#quotes-page h6,
+#science-page p,
+#science-page ul,
+#science-page ol,
+#science-page h1,
+#science-page h2,
+#science-page h3,
+#science-page h4,
+#science-page h5,
+#science-page h6 {
+	max-width: 592px;
+}
+
+#definitions-page blockquote {
+  font-style: normal;
+}
+
+#definitions-page a,
+#error-page a,
+#faq-page a,
+#post-content a,
+#quotes-page a,
+#science-page a {
+	position: relative;
+}
+
+#definitions-page blockquote,
+#error-page blockquote,
+#faq-page blockquote,
+#post-content blockquote,
+#quotes-page blockquote,
+#science-page blockquote {
+	font-style: normal;
+}
+
+#definitions-page blockquote p,
+#error-page blockquote p,
+#faq-page blockquote p,
+#post-content blockquote p,
+#science-page blockquote p {
+	border-left: 5px solid #bdbdbd;
+	margin-left: -15px;
+	padding-left: 15px;
+}
+
+#definitions-page blockquote:after,
+#definitions-page blockquote:before,
+#error-page blockquote:after,
+#error-page blockquote:before,
+#faq-page blockquote:after,
+#faq-page blockquote:before,
+#post-content blockquote:after,
+#post-content blockquote:before,
+#quotes-page blockquote:after,
+#quotes-page blockquote:before,
+#science-page blockquote:after,
+#science-page blockquote:before {
+	display: none;
+}
+
+#definitions-page ul li p,
+#error-page ul li p,
+#faq-page ul li p,
+#post-content ul li p,
+#science-page ul li p {
+	font-size: 14px;
+	margin-left: 0px;
+}
+
+.explicit-label {
+  background: rgba(0,0,0,0.87);
+  float: right;
+  height: 40px;
+  position: absolute;
+  right: 10px;
+  width: 120px;
+  z-index: 7;
+}
+
+.explicit-label-home {
+  bottom: 163px;
+}
+
+#faq-page h3 {
+  font-size: 24px;
+  font-style: italic;
+  font-weight: 300;
+  letter-spacing: .08em;
+  line-height: 1.35;
+  margin-left: 10px;
+  max-width: 592px;
+  position: relative;
+  text-align: left;
+}
+
+#faq-page h3::before {
+  content: "“";
+  left: -0.5em;
+  position: absolute;
+}
+
+#faq-page h3::after {
+  content: "”";
+  margin-left: -0.05em;
+}
+
+#faq-page ul,
+#faq-page li,
+#faq-page p {
+  font-size: 14px;
+}
+
+#faq-page p {
+  text-align: left;
+}
+
+.focus-center {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+hr {
+  max-width: 592px;
+  width: inherit;
+}
+
+iframe {
+  width: initial;
+}
+
+li.mdl-menu__item.mdl-js-ripple-effect {
+  padding: 0;
+}
+
+.link-fixer {
+  position: absolute; 
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
+
+#logo-footer {
+  color: black;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.mdl-menu a {
+  text-decoration: none;
+  color: unset;
+}
+
+.menu-items {
+  display: block;
+}
+
+#post-content blockquote {
+  font-style: italic;
+  max-width: 592px;
+  text-align: center;
+}
+
+#post-content blockquote:after, #post-content blockquote:before {
+  display: none;
+}
+
+#post-content blockquote footer {
+  font-size: 20px;
+  text-align: right;
+}
+
+#post-content blockquote footer:before {
+  content: '\2014 ';
+}
+
+#post-content img {
+  display: block;
+  margin: auto;
+  max-width: 100%;
+}
+
+#post-content iframe {
+	max-width: 560px;
+  width: 100%;
+}
+
+#post-content p {
+  width: inherit;
+}
+
+#quotes-page .annotation {
+  font-size: 14px;
+  font-style: italic;
+  margin-top: 0px;
+}
+
+#quotes-page blockquote {
+  margin: 30px;
+  padding: 0px;
+  text-align: center;
+}
+
+#quotes-page blockquote footer {
+  font-size: 20px;
+  text-align: right;
+}
+#quotes-page blockquote footer:before {
+  content: '\2014 ';
+}
+
+#quotes-page strong {
+  font-style: italic;
+}
+
+#science-page img {
+  display: block;
+  margin: auto;
+  max-width: 100%;
+}
+
+#title {
+  font-family: 'Pinyon Script', cursive;
+}

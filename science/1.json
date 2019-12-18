@@ -1,0 +1,14 @@
+{
+  "id": "1",
+  "nickname": "causation",
+  "titletext": "Correlation Versus Causation",
+  "subtext": "Sample",
+  "timestamp": {
+    "month": "December",
+    "day": "15",
+    "year": "2015"
+  },
+  "card_type": "picture",
+  "image": "unsplash/42.jpg",
+  "comments": "true"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "27",
+  "titletext": "Swallowing the Red Pill",
+  "subtext": "Advocating for gender equality in a world headed towards radical feminism",
+  "timestamp": {
+    "month": "August",
+    "day": "21",
+    "year": "2017"
+  },
+  "card_size": "small",
+  "card_type": "article",
+  "image": "pills.jpg",
+  "comments": "false",
+  "related": [26, 23],
+  "explicit": "false"
+}

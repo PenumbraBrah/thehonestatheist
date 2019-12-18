@@ -1,0 +1,16 @@
+{
+  "id": "31",
+  "titletext": "Hate Speech <em>Is</em> Free Speech",
+  "subtext": "I find it concerning people don&apos;t understand the basics of our freedom of speech.",
+  "timestamp": {
+    "month": "December",
+    "day": "17",
+    "year": "2017"
+  },
+  "card_size": "large",
+  "card_type": "article",
+  "image": "firstamendment.jpg",
+  "comments": "true",
+  "related": [25, 12],
+  "explicit": "false"
+}

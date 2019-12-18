@@ -1,0 +1,16 @@
+{
+  "id": "25",
+  "titletext": "Make America Mediocre Again",
+  "subtext": "Since when was America great?",
+  "timestamp": {
+    "month": "July",
+    "day": "5",
+    "year": "2017"
+  },
+  "card_size": "small",
+  "card_type": "article",
+  "image": "sparkler.jpg",
+  "comments": "true",
+  "related": [23, 12],
+  "explicit": "false"
+}

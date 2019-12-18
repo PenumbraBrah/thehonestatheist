@@ -1,0 +1,15 @@
+{
+  "id": "23",
+  "titletext": "March for Science: Science Not Silence",
+  "subtext": "It is stupid we have to stand up for science. Science is not \"fake news,\" or some conspiracy against a political party.",
+  "timestamp": {
+    "month": "May",
+    "day": "4",
+    "year": "2017"
+  },
+  "card_size": "large",
+  "card_type": "article",
+  "image": "sciencemarch.jpg",
+  "comments": "true",
+  "related": [20, 12, 8]
+}

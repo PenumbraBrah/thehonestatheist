@@ -1,0 +1,16 @@
+{
+  "id": "30",
+  "titletext": "Why I celebrate Christmas (Saturnalia)",
+  "subtext": "It&apos;s more pagan than you think, and really has nothing to with little baby Jesus.",
+  "timestamp": {
+    "month": "December",
+    "day": "1",
+    "year": "2017"
+  },
+  "card_size": "large",
+  "card_type": "article",
+  "image": "christmaspresent.jpg",
+  "comments": "true",
+  "related": [20, 10, 2],
+  "explicit": "false"
+}

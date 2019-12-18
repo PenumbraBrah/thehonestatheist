@@ -1,0 +1,16 @@
+{
+  "id": "32",
+  "titletext": "If I Was An Ancient Egyptian",
+  "subtext": "I would not serve the Israeli god, Yahweh",
+  "timestamp": {
+    "month": "January",
+    "day": "15",
+    "year": "2018"
+  },
+  "card_size": "large",
+  "card_type": "article",
+  "image": "moses.jpg",
+  "comments": "true",
+  "related": [29, 28, 17],
+  "explicit": "false"
+}
