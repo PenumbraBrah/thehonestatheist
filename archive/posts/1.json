@@ -7,8 +7,9 @@
     "day": "22",
     "year": "2015"
   },
-  "card_size": "large",
-  "card_type": "article",
+  "card_size": "medium",
+  "card_type": "picture",
   "image": "unsplash/606.jpg",
-  "comments": "true"
+  "comments": "true",
+  "related": []
 }

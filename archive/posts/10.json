@@ -10,5 +10,6 @@
   "card_size": "large",
   "card_type": "article",
   "image": "unsplash/239.jpg",
-  "comments": "true"
+  "comments": "true",
+  "related": []
 }

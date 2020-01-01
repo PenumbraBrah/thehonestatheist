@@ -18,3 +18,25 @@ enable_comments=${enable_comments:-true}
 read -p "Related posts: " related
 read -p "Post is explicit? " explicit
 explicit={explicit:-false}
+
+num=$(ls [^_]*.json | tail -n 1 | cut -f 1 -d '.')
+let "num=num+1"
+
+echo "{
+  \"id\": \"$num\",
+  \"titletext\": \"$title\",
+  \"subtext\": \"$subtext\",
+  \"timestamp\": {
+    \"month\": \"$release_m\",
+    \"day\": \"$release_d\",
+    \"year\": \"$release_y\"
+  },
+  \"card_size\": \"large\",
+  \"card_type\": \"article\",
+  \"image\": \"article\",
+  \"comments\": \"$enable_comment\",
+  \"related\": [$related],
+  \"explicit\": \"$explicit\"
+}" > $num.json
+
+touch $num.md

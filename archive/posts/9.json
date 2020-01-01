@@ -10,5 +10,6 @@
   "card_size": "medium",
   "card_type": "picture",
   "image": "hitchens_thinking.jpg",
-  "comments": "true"
+  "comments": "true",
+  "related": []
 }
