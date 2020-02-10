@@ -64,6 +64,7 @@ body .demo-blog {
   font-weight: 400;
 }
 .demo-blog .mdl-card__media ~ .mdl-card__supporting-text {
+  box-sizing: border-box;
   min-height: 64px;
 }
 .demo-blog .mdl-card__supporting-text:not(:last-child) {

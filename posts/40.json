@@ -1,0 +1,232 @@
+{
+  "id": "40",
+  "titletext": "Impossible Quiz on Christianity",
+  "subtext": "The Bible holds so many contradictions it's impossible to answer these questions correctly.",
+  "timestamp": {
+    "month": "February",
+    "day": "9",
+    "year": "2020"
+  },
+  "card_size": "large",
+  "card_type": "article",
+  "image": "white-cross.jpg",
+  "comments": "false",
+  "related": [37, 35, 29],
+  "explicit": "false",
+  "quizdata": 
+    [
+      {
+        "question": "Does God love everyone?",
+        "answer_yes": {
+          "description": "Actually God hates certain people.",
+          "references": [
+            {
+              "verse": "Leviticus 20:23",
+              "content": "And I hated Esau, and laid his mountains and his heritage waste for the dragons of the wilderness."
+            },
+            {
+              "verse": "Malachi 1:3",
+              "content": "As it is written, Jacob have I loved, but Esau have I hated."
+            }
+          ]
+        },
+        "answer_no": {
+          "description": "God loves everyone according to this verse:",
+          "references": [
+            {
+              "verse": "John 3:16",
+              "content": "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life."
+            }
+          ]
+        }
+      },
+      {
+        "question": "Did Jesus preach his first sermon on a mountain top?",
+        "answer_yes": {
+          "description": "Nope, he preached on a plain.",
+          "references": [
+            {
+              "verse": "Luke 6:17",
+              "content": "And he came down with them, and stood in the plain, and the company of his disciples, and a great multitude of people out of all Judaea and Jerusalem, and from the sea coast of Tyre and Sidon, which came to hear him, and to be healed of their diseases;"
+            }
+          ]
+        },
+        "answer_no": {
+          "description": "Wrong, he did preach on a mountain top.",
+          "references": [
+            {
+              "verse": "Matthew 5:1-3",
+              "content": "And seeing the multitudes, he went up into a mountain: and when he was set, his disciples came unto him: And he opened his mouth, and taught them, saying, Blessed [are] the poor in spirit: for their's is the kingdom of heaven."
+            }
+          ]
+        }
+      },
+      {
+        "question": "Was Jesus born while Quirinius was governor of Syria?",
+        "answer_yes": {
+          "description": "Actually, he was born under King Herod and Quirinius was not yet governor (Quirinius would have taken office in 6 AD).",
+          "references": [
+            {
+              "verse": "Matthew 2:1",
+              "content": "Now when Jesus was born in Bethlehem of Judaea in the days of Herod the king, behold, there came wise men from the east to Jerusalem,"
+            },
+            {
+              "verse": "Luke 1:5, 30-31",
+              "content": "There was in the days of Herod, the king of Judaea, a certain priest named Zacharias, of the course of Abia: and his wife [was] of the daughters of Aaron, and her name [was] Elisabeth. ... And the angel said unto her, Fear not, Mary: for thou hast found favour with God. And, behold, thou shalt conceive in thy womb, and bring forth a son, and shalt call his name JESUS."
+            }
+          ]
+        },
+        "answer_no": {
+          "description": "Luke says Quirinius was governor (Herod the Great died in 4 BC).",
+          "references": [
+            {
+              "verse": "Luke 2:1-4",
+              "content": "And it came to pass in those days, that there went out a decree from Caesar Augustus, that all the world should be taxed. ([And] this taxing was first made when Cyrenius was governor of Syria.) And all went to be taxed, every one into his own city. And Joseph also went up from Galilee, out of the city of Nazareth, into Judaea, unto the city of David, which is called Bethlehem; (because he was of the house and lineage of David)"
+            }
+          ]
+        }
+      },
+      {
+        "question": "Was Jesus born to bring peace to the earth?",
+        "answer_yes": {
+          "description": "Jesus says he did not.",
+          "references": [
+            {
+              "verse": "Matthew 10:34",
+              "content": "Think not that I am come to send peace on earth: I came not to send peace, but a sword."
+            }
+          ]
+        },
+        "answer_no": {
+          "description": "Several passages say he did.",
+          "references": [
+            {
+              "verse": "Luke 2:14",
+              "content": "Glory to God in the highest, and on earth peace, good will toward men."
+            },
+            {
+              "verse": "John 14:27",
+              "content": "Peace I leave with you, my peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid."
+            },
+            {
+              "verse": "Acts 10:36",
+              "content": "The word which [God] sent unto the children of Israel, preaching peace by Jesus Christ: (he is Lord of all)"
+            }
+          ]
+        }
+      },
+      {
+        "question": "Was the tomb open after Jesus resurrection when the women (Mary and Mary) found it?",
+        "answer_yes": {
+          "description": "No, it was rolled back after they arrived.",
+          "references": [
+            {
+              "verse": "Matthew 28:1-2",
+              "content": "In the end of the sabbath, as it began to dawn toward the first [day] of the week, came Mary Magdalene and the other Mary to see the sepulchre. And, behold, there was a great earthquake: for the angel of the Lord descended from heaven, and came and rolled back the stone from the door, and sat upon it."
+            }
+          ]
+        },
+        "answer_no": {
+          "description": "It was already uncovered.",
+          "references": [
+            {
+              "verse": "John 20:1",
+              "content": "The first [day] of the week cometh Mary Magdalene early, when it was yet dark, unto the sepulchre, and seeth the stone taken away from the sepulchre."
+            },
+            {
+              "verse": "Mark 16:4",
+              "content": "And when they looked, they saw that the stone was rolled away: for it was very great."
+            },
+            {
+              "verse": "Luke 24:2",
+              "content": "And they found the stone rolled away from the sepulchre."
+            }
+          ]
+        }
+      },
+      {
+        "question": "Did the men with Saul on the road to Damascus hear Jesus speaking to Paul?",
+        "answer_yes": {
+          "description": "The Bible says they did not.",
+          "references": [
+            {
+              "verse": "Acts 22:9",
+              "content": "And they that were with me saw indeed the light, and were afraid; but they heard not the voice of him that spake to me."
+            }
+          ]
+        },
+        "answer_no": {
+          "description": "The Bible says they did.",
+          "references": [
+            {
+              "verse": "Acts 9:7",
+              "content": "And the men which journeyed with him stood speechless, hearing a voice, but seeing no man."
+            }
+          ]
+        }
+      },
+      {
+        "question": "Can God do anything?",
+        "answer_yes": {
+          "description": "Not everything.",
+          "references": [
+            {
+              "verse": "Judges 1:19",
+              "content": "And the LORD was with Judah; and he drave out [the inhabitants of] the mountain; but could not drive out the inhabitants of the valley, because they had chariots of iron."
+            }
+          ]
+        },
+        "answer_no": {
+          "description": "All things.",
+          "references": [
+            {
+              "verse": "Mark 10:27",
+              "content": "And Jesus looking upon them saith, With men [it is] impossible, but not with God: for with God all things are possible."
+            }
+          ]
+        }
+      },
+      {
+        "question": "Was the curtain in the temple torn before Jesus died?",
+        "answer_yes": {
+          "description": "No, it was after.",
+          "references": [
+            {
+              "verse": "Matthew 27:50-51",
+              "content": "Jesus, when he had cried again with a loud voice, yielded up the ghost. And, behold, the veil of the temple was rent in twain from the top to the bottom; and the earth did quake, and the rocks rent;"
+            }
+          ]
+        },
+        "answer_no": {
+          "description": "It was before.",
+          "references": [
+            {
+              "verse": "Luke 23:45-46",
+              "content": "And the sun was darkened, and the veil of the temple was rent in the midst. And when Jesus had cried with a loud voice, he said, Father, into thy hands I commend my spirit: and having said thus, he gave up the ghost."
+            }
+          ]
+        }
+      },
+      {
+        "question": "Did God tempt David to number Israel?",
+        "answer_yes": {
+          "description": "No, it was Satan.",
+          "references": [
+            {
+              "verse": "1 Chronicles 21:1",
+              "content": "And Satan stood up against Israel, and provoked David to number Israel."
+            }
+          ]
+        },
+        "answer_no": {
+          "description": "It was God who tempted David.",
+          "references": [
+            {
+              "verse": "2 Samuel 24:1",
+              "content": "And again the anger of the LORD was kindled against Israel, and he moved David against them to say, Go, number Israel and Judah."
+            }
+          ]
+        }
+      }
+    ]
+}
