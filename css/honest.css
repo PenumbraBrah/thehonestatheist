@@ -223,6 +223,14 @@ li.mdl-menu__item.mdl-js-ripple-effect {
   display: block;
 }
 
+.picture-on-left {
+  text-align: right;
+}
+
+.picture-on-right {
+  text-align: left;
+}
+
 #post-content blockquote {
   font-style: italic;
   max-width: 592px;
