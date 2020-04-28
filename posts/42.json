@@ -1,0 +1,16 @@
+{
+  "id": "42",
+  "titletext": "Prayer: Panacea of the Gaps",
+  "subtext": "Prayer is the solution when/where medical knowledge or remedy falls short",
+  "timestamp": {
+    "month": "April",
+    "day": "26",
+    "year": "2020"
+  },
+  "card_size": "large",
+  "card_type": "article",
+  "image": "article",
+  "comments": "false",
+  "related": [24,29,40],
+  "explicit": "false"
+}
