@@ -17,7 +17,7 @@ enable_comments=${enable_comments:-true}
 
 read -p "Related posts: " related
 read -p "Post is explicit? " explicit
-explicit={explicit:-false}
+explicit=${explicit:-false}
 
 num=$(ls [^_]*.json | tail -n 1 | cut -f 1 -d '.')
 let "num=num+1"
@@ -31,9 +31,9 @@ echo "{
     \"day\": \"$release_d\",
     \"year\": \"$release_y\"
   },
-  \"card_size\": \"large\",
+  \"card_size\": \"medium\",
   \"card_type\": \"article\",
-  \"image\": \"article\",
+  \"image\": \"$picsum\",
   \"comments\": \"$enable_comment\",
   \"related\": [$related],
   \"explicit\": \"$explicit\"
