@@ -1,0 +1,16 @@
+{
+  "id": "45",
+  "titletext": "God, The Mafia Boss",
+  "subtext": "",
+  "timestamp": {
+    "month": "April",
+    "day": "7",
+    "year": "2021"
+  },
+  "card_size": "medium",
+  "card_type": "article",
+  "image": "crime-boss.jpg",
+  "comments": "",
+  "related": [35,32],
+  "explicit": "false"
+}
