@@ -133,6 +133,10 @@ a.menu-items {
 	margin-left: 0px;
 }
 
+.description {
+  text-transform: capitalize;
+}
+
 .explicit-label {
   background: rgba(0,0,0,0.87);
   float: right;
@@ -224,11 +228,11 @@ li.mdl-menu__item.mdl-js-ripple-effect {
 }
 
 .picture-on-left {
-  text-align: right;
+  text-align: left;
 }
 
 .picture-on-right {
-  text-align: left;
+  text-align: right;
 }
 
 #post-content blockquote {
@@ -291,6 +295,10 @@ li.mdl-menu__item.mdl-js-ripple-effect {
 
 #quotes-page strong {
   font-style: italic;
+}
+
+.resources-tiktok.mdl-grid {
+  width: calc(100% - 16px);
 }
 
 #science-page img {
