@@ -1,0 +1,209 @@
+{
+  "id": "47",
+  "titletext": "Divine Quiz Show",
+  "subtext": "The easiest quiz you'll ever take about Jesus and other gods!",
+  "timestamp": {
+    "month": "December",
+    "day": "25",
+    "year": "2021"
+  },
+  "card_size": "medium",
+  "card_type": "article",
+  "image": "quiz-show.jpg",
+  "comments": "",
+  "related": [40],
+  "explicit": "false",
+  "quizdata":
+  [
+    {
+      "question": "What does the Eucharist (the bread) represent in Holy Communion? (Finish this sentence \"The bread and water are part of a sacred rite and commemorate the...\" ...what?)",
+      "answers": 
+      [
+        {
+          "tag": "mithras",
+          "name": "meal Mithras had with the sun god Sol Invictus.",
+          "correct": true,
+          "disclaimer": "Correct",
+          "explanation": "Justin Martyr was the first record we have of the Roman cult and its description of a feast commerating the meal Mithras had with the sun god Sol Invictus. Scholars still are unsure which religion copied which, but both bear a striking resemblence in their symbolism.",
+          "references": 
+          [
+            {
+              "verse": "Justin Martyr, First Apology, ch. 66",
+              "content": "For the apostles, in the memoirs composed by them, which are called Gospels, have thus delivered unto us what was enjoined upon them; that Jesus took bread, and when He had given thanks, said, \"This do ye in remembrance of Me, this is My body; \"and that, after the same manner, having taken the cup and given thanks, He said, \"This is My blood; \"and gave it to them alone. Which the wicked devils have imitated in the mysteries of Mithras, commanding the same thing to be done. For, that bread and a cup of water are placed with certain incantations in the mystic rites of one who is being initiated, you either know or can learn."
+            }
+          ]
+        },
+        {
+          "tag": "jesus",
+          "name": "body and blood of Jesus Christ and his sacrifice in death.",
+          "correct": true,
+          "disclaimer": "Correct",
+          "explanation": "",
+          "references": 
+          [
+            {
+              "verse": "Matthew 26:26-29 RSV",
+              "content": "Now as they were eating, Jesus took bread, and blessed, and broke it, and gave it to the disciples and said, \"Take, eat; this is my body.\" And he took a cup, and when he had given thanks he gave it to them, saying, \"Drink of it, all of you; for this is my blood of the covenant, which is poured out for many for the forgiveness of sins. I tell you I shall not drink again of this fruit of the vine until that day when I drink it new with you in my Father's kingdom.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Who is pictured as the \"Good Shepherd\" -- carrying a lamb over his shoulders?",
+      "answers":
+      [
+        {
+          "tag": "hermes",
+          "name": "Hermes",
+          "correct": true,
+          "disclaimer": "Correct",
+          "explanation": "Early pictorial representations of Jesus borrowed from those of Hermes Kriophoros, probably as a means of escaping detection and persecution.",
+          "references": "",
+          "additional": "<a href='https://art.thewalters.org/detail/27994/sarcophagus-fragment-with-the-good-shepherd/'><img src='/images/stock/good_shepherd.jpg' alt='The Good Shepherd' title='The Walters Art Museum, Sarcophagus Fragment with the Good Shepherd'></a>"
+        },
+        {
+          "tag": "jesus",
+          "name": "Jesus",
+          "correct": true,
+          "disclaimer": "Correct",
+          "explanation": "Early pictorial representations of Jesus borrowed from those of Hermes Kriophoros, probably as a means of escaping detection and persecution.",
+          "references": "",
+          "additional": "<a href='https://art.thewalters.org/detail/27994/sarcophagus-fragment-with-the-good-shepherd/'><img src='/images/stock/good_shepherd.jpg' alt='The Good Shepherd' title='The Walters Art Museum, Sarcophagus Fragment with the Good Shepherd'></a>"
+        }
+      ]
+    },
+    {
+      "question": "Who is touted as a miraculous healer and brought a man back to life, healed a blind man and resurrected after his death as divine?",
+      "answers":
+      [
+        {
+          "tag": "jesus",
+          "name": "Jesus",
+          "correct": true,
+          "disclaimer": "Correct",
+          "explanation": "Numerous Scriptures speak of Jesus' power as a healer and miracle worker, including raising people from the dead, chronic illness and sicknesses that were untreatable at the time. After Jesus' death and resurrection, he ascended into heaven -- in other words -- was seen as divine.",
+          "references": 
+          [
+            {
+              "verse": "Matthew 8:3 RSV",
+              "content": "And he stretched out his hand and touched him, saying, \"I will; be clean.\" And immediately his leprosy was cleansed."
+            },
+            {
+              "verse": "John 4:50 RSV",
+              "content": "Jesus said to him, \"Go; your son will live.\" The man believed the word that Jesus spoke to him and went his way."
+            },
+            {
+              "verse": "Luke 24:51 RSV",
+              "content": "While he blessed them, he parted from them, and was carried up into heaven."
+            }
+          ]
+        },
+        {
+          "tag": "asclepius",
+          "name": "Asclepius",
+          "correct": true,
+          "disclaimer": "Correct",
+          "explanation": "Asclepius, so successful as a healer that eventually Zeus killed him to prevent the overrun of the human populace, surpassed his teachers as a healer and resurrected to the constellation Ophiuchus and later as one of the gods on Olympus.",
+          "references":
+          [
+            {
+              "verse": "Hyginus, De Astronomica 2.14.7",
+              "content": "Aesculapius, using the same herb, brought Glaucus, too, back to life."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Who is commonly pictured with a halo, throne, bearded, wearing robes and known as \"Ruler of the Cosmos\"?",
+      "answers":
+      [
+        {
+          "tag": "zeus",
+          "name": "Zeus",
+          "correct": true,
+          "disclaimer": "Correct",
+          "explanation": "Ruler of Mount Olympus and pantheon of the Greek and Roman Gods, Zeus is probably the most well-known god that is also immediately realized to be fictional. Often pictured as a powerhouse of immorality with a perfect physique and kingly demeanor, Zeus is the paragon god figure.",
+          "references": ""
+        },
+        {
+          "tag": "serapis",
+          "name": "Serapis",
+          "correct": true,
+          "disclaimer": "Correct",
+          "explanation": "A carried over deity from Egypt, Hellenistic Greece created Serapis as the conglomerate of two other Egyptian gods, Osiris and Apis. He was pictured as a Greek man but with Egyptian trappings.",
+          "references": ""
+        },
+        {
+          "tag": "jesus",
+          "name": "Jesus",
+          "correct": true,
+          "disclaimer": "Correct",
+          "explanation": "Jesus, known as the \"Prince of Peace\" and synonymous with God, is the perfect compatriot to a descriptor involving a bearded god on a throne. Given his claimed divinity is commonplace in history, it is no wonder he is also pictured with a halo in many works of art.",
+          "references": ""
+        }
+      ]
+    },
+    {
+      "question": "Who is a central theme of Christmas and whose birth is celebrated on December 25th?",
+      "answers":
+      [
+        {
+          "tag": "sol",
+          "name": "Sol Invictus",
+          "correct": true,
+          "disclaimer": "Correct",
+          "explanation": "Scholars debate which came first: the celebration of Jesus' birth on December 25th or Sol Invictus, the late Roman god under emperor Aurelian. Either way, the festival of Dies Natalis Solis Invictus (Birthday of the Unconquered Sun) bears striking resemblence to today's Christmas celebrations.",
+          "references": ""
+        },
+        {
+          "tag": "jesus",
+          "name": "Jesus",
+          "correct": true,
+          "disclaimer": "Correct",
+          "explanation": "Hailed as Jesus' birthday, December 25th holds meaning within Christendom as the time Jesus arrived on earth via meager beginnings. That said, the reason December 25th is celebrated as Jesus' birth remains a mystery, when it is unlikely Jesus would actually have been that time of the year. It is much more believable that December 25th was picked to overwrite the pagan festivals of the time.",
+          "references": ""
+        },
+        {
+          "tag": "saturn",
+          "name": "Saturn",
+          "correct": true,
+          "disclaimer": "Correct",
+          "explanation": "Saturnalia, the celebration of the god Saturn, was also celebrated around the time of December and may have led to many of our standing traditions for Christmas. For instance, our traditional Christmas stocking cap has its origins in this holiday.",
+          "references": ""
+        }
+      ]
+    },
+    {
+      "question": "Whose mother was a virgin but father was divine?",
+      "answers":
+      [
+        {
+          "tag": "dionysus",
+          "name": "Dionysus",
+          "correct": true,
+          "disclaimer": "Correct",
+          "explanation": "In the work, Dionysiaca, the Greek poet Nonnus described how Dionysus was created by Zeus after \"[ravishing] the maidenhood of unwedded Persephonia,\" who, despite that, remained a virgin, and gave birth to a horned child named Zagreus, who was eventually destroyed and changed into Dionysus.",
+          "references": ""
+        },
+        {
+          "tag": "jesus",
+          "name": "Jesus",
+          "correct": true,
+          "disclaimer": "Correct",
+          "explanation": "Jesus' earthly father was Joseph, but according to tradition and Scripture, Jesus was actually conceived by the Holy Spirit with Mary so that Mary remained a virgin and Jesus' real father was God.",
+          "references": ""
+        },
+        {
+          "tag": "erichthonius",
+          "name": "Erichthonius",
+          "correct": true,
+          "disclaimer": "Correct",
+          "explanation": "In an attempted rape by god Hephaestus of Athena, his semen fell to the earth and created the child, Erichthonius, who Athena raised in secret.",
+          "references": ""
+        }
+      ]
+    }
+  ]
+}

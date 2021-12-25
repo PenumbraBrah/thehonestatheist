@@ -87,11 +87,11 @@
  document.getElementById(id).src = "/images/stock/explicit/"+replacement+".jpg";
 }</script><script>function showAns(a) {
   document.getElementById(a).style.display = "block";
-  a = a.replace("answer", "question").replace("-yes", "");
-  a = a.replace("-no", "");
+  a = a.replace("answer", "option");
+  a = a.substring(0, a.lastIndexOf("-"));
   document.getElementById(a).style.display = "none";
 }</script><script>function resetAns() {
-  document.querySelectorAll('.ques').forEach(function(a) {
+  document.querySelectorAll('.opts').forEach(function(a) {
     a.style.display = null;
   })
   document.querySelectorAll('.ans').forEach(function(a) {
